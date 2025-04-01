@@ -51,7 +51,7 @@
 - To integrate of it, you need to make sure that the Composer is already install.
 - **NOTE:** Make sure that your Composer is install in directory ***c:\xampp\php\php.exe***
 
-**Step 1:** Go to ***cd:\xampp\htdocs***, and create a folder.
+**Step 1:** Go to ***cd:\xampp\htdocs***, and create a folder. &nbsp;
 **Step 2:** Inside the folder which you created, in the **Address bar** type **cmd**
 **Step 3:** If you are in the command line type ***composer require mongodb/mongodb***
 &nbsp;
