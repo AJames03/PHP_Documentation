@@ -16,10 +16,10 @@
 ## How to Start?
 ---
 ### Step 1: Download the following:
-**xampp:** https://www.apachefriends.org/download.html
-**MongoDB Community Server:** https://www.mongodb.com/try/download/community
-**MongoDB Shell:** https://www.mongodb.com/try/download/shell
-**Composer:** https://getcomposer.org/download/
+- **xampp:** https://www.apachefriends.org/download.html
+- **MongoDB Community Server:** https://www.mongodb.com/try/download/community
+- **MongoDB Shell:** https://www.mongodb.com/try/download/shell
+- **Composer:** https://getcomposer.org/download/
 ---
 ### Step 2: Install a PECL
 - After you install the xampp you should go to **c:\xampp\php** and find the **php8ts.dll** to know the version of pecl that you need to install.
