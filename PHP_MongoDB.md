@@ -56,7 +56,6 @@
 **Step 3:** If you are in the command line type ***composer require mongodb/mongodb***
 &nbsp;
 ---
-#### "Congratulation now you can create a website which integrated to MongoDB Compass and PHP"
 
 **DISCLAIMER:** To make sure that there's no copyright issue I provide the links of website which our sources.
 &nbsp;
